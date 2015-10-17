@@ -1,0 +1,245 @@
+run:
+
+You have guessed:
+|-------
+|      |
+|      
+|        
+|       
+|          
+|       
+|          
+|           
+|___________
+
+Word:_ _ _ _ _ _ 
+
+You have 6 guesses remaining
+Guess a Letter: w
+
+You have guessed:w
+|-------
+|      |
+|      _
+|     |_|
+|       
+|          
+|       
+|          
+|           
+|___________
+
+Word:_ _ _ _ _ _ 
+
+You have 5 guesses remaining
+Guess a Letter: q
+
+You have guessed:w ,q
+|-------
+|      |
+|      _
+|     |_|
+|      |
+|      |   
+|      |
+|          
+|           
+|___________
+
+Word:_ _ _ _ _ _ 
+
+You have 4 guesses remaining
+Guess a Letter: z
+
+You have guessed:w ,q ,z
+|-------
+|      |
+|      _
+|     |_|
+|      |
+|   ---|   
+|      |
+|          
+|           
+|___________
+
+Word:_ _ _ _ _ _ 
+
+You have 3 guesses remaining
+Guess a Letter: x
+
+You have guessed:w ,q ,z ,x
+|-------
+|      |
+|      _
+|     |_|
+|      |
+|   ---|---
+|      |
+|          
+|           
+|___________
+
+Word:_ _ _ _ _ _ 
+
+You have 2 guesses remaining
+Guess a Letter: s
+
+You have guessed:w ,q ,z ,x ,s
+|-------
+|      |
+|      _
+|     |_|
+|      |
+|   ---|---
+|      |
+|      /   
+|     /     
+|___________
+
+Word:_ _ _ _ _ _ 
+
+You have 1 guesses remaining
+Guess a Letter: l
+
+You have guessed:w ,q ,z ,x ,s ,l
+|-------
+|      |
+|      _
+|     |_|
+|      |
+|   ---|---
+|      |
+|      /\ 
+|     /  \ 
+|___________
+
+
+You Lose! 
+Word:d r a p e d 
+Do you want to play again ? (Y/N)
+n
+BUILD SUCCESSFUL (total time: 19 seconds)
+
+--------------------------------------------------------------------------------------------------------------
+run:
+You have guessed:
+|-------
+|      |
+|      
+|        
+|       
+|          
+|       
+|          
+|           
+|___________
+
+Word:_ _ _ _ _ _ _ _ 
+
+You have 6 guesses remaining
+Guess a Letter: c
+
+You have guessed:c
+|-------
+|      |
+|      
+|        
+|       
+|          
+|       
+|          
+|           
+|___________
+
+Word:c _ _ _ _ _ _ _ 
+
+You have 5 guesses remaining
+Guess a Letter: a
+
+You have guessed:c ,a
+|-------
+|      |
+|      
+|        
+|       
+|          
+|       
+|          
+|           
+|___________
+
+Word:c a _ _ a _ _ _ 
+
+You have 4 guesses remaining
+Guess a Letter: s
+
+You have guessed:c ,a ,s
+|-------
+|      |
+|      
+|        
+|       
+|          
+|       
+|          
+|           
+|___________
+
+Word:c a s _ a _ _ _ 
+
+You have 3 guesses remaining
+Guess a Letter: u
+
+You have guessed:c ,a ,s ,u
+|-------
+|      |
+|      
+|        
+|       
+|          
+|       
+|          
+|           
+|___________
+
+Word:c a s u a _ _ _ 
+
+You have 2 guesses remaining
+Guess a Letter: l
+
+You have guessed:c ,a ,s ,u ,l
+|-------
+|      |
+|      
+|        
+|       
+|          
+|       
+|          
+|           
+|___________
+
+Word:c a s u a l l _ 
+
+You have 1 guesses remaining
+Guess a Letter: y
+
+You have guessed:c ,a ,s ,u ,l ,y
+|-------
+|      |
+|      
+|        
+|       
+|          
+|       
+|          
+|           
+|___________
+
+
+You Win! 
+Word:c a s u a l l y 
+Do you want to play again ? (Y/N)
+n
+BUILD SUCCESSFUL (total time: 16 seconds)
